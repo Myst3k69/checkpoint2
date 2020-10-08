@@ -1,3 +1,5 @@
+*** Purpose: checkpoint while studying at Wild Code School to check skills on REACT - 4hours time-boxed ***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
